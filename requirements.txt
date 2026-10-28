@@ -1,0 +1,8 @@
+fastapi>=0.115
+uvicorn[standard]>=0.30
+python-multipart
+numpy
+faster-whisper
+sentence-transformers
+httpx
+yt-dlp

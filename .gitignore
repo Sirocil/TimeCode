@@ -1,0 +1,6 @@
+ffmpeg-9.0.2-full_build/ 
+*.mp4 
+*.avi 
+*.mkv 
+__pycache__/ 
+*.pyc 
